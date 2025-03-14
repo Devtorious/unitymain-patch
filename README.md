@@ -29,7 +29,7 @@ The patch needs to be compiled with a Windows C99 compatible compiler, which can
 ### 1. Clone and enter the repository
 
 ```sh
-git clone https://github.com/axertheaxe/unitymain-patch.git
+git clone https://github.com/Devtorious/unitymain-patch.git
 cd unitymain-patch
 ```
 
